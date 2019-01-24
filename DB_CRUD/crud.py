@@ -1,3 +1,6 @@
+# crud class 
+# methods that allow each of the crud operations
+
 import dbops as dbconn
 import sys
 

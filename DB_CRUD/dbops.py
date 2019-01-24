@@ -1,3 +1,5 @@
+#database connection module
+#reads stored information from configuration file
 import config as cf
 import mysql.connector
 
