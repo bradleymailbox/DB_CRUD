@@ -15,6 +15,7 @@
 ################################################33
 
 import genops as gen
+#import the crud class
 from crud import crud
 
 choice = ""
